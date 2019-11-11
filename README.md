@@ -1,2 +1,2 @@
 # genesys
-A simulator for distributed systems. It uses the free monad.
+A distributed systems library written in native haskell
